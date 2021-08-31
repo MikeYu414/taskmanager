@@ -1,0 +1,27 @@
+.vue-grid-item {
+  background: aquamarine;
+}
+
+.detail-item {
+  margin-bottom: 8px;
+}
+
+.detail-person {
+  margin-left: 8px;
+}
+
+.timeline-item-block {
+  height: 100%;
+  border-style: outset;
+
+  div {
+    margin-top: 2px;
+    margin-left: 5px;
+  }
+}
+
+.timeline-item-time {
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
